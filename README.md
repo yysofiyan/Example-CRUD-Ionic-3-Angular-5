@@ -27,6 +27,7 @@ Clone this repository
 * Run ionic cordova platform add ios
 * Run ionic cordova run ios or ionic cordova run android
 
+[![simulator-ios-ionic.gif](https://s1.gifyu.com/images/simulator-ios-ionic.gif)](https://gifyu.com/image/s69m)
 
 
 
@@ -36,5 +37,4 @@ Clone this repository
 
 
 
-![Plugin on redmine.org](https://img.shields.io/redmine/plugin/stars/redmine_xlsx_format_issue_exporter.svg)
-
+[![GitHub stars](https://img.shields.io/github/stars/yysofiyan/Example-CRUD-Ionic-3-Angular-5.svg?style=for-the-badge)](https://github.com/yysofiyan/Example-CRUD-Ionic-3-Angular-5/stargazers)
