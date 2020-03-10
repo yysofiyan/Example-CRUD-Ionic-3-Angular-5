@@ -27,7 +27,7 @@ Clone this repository
 * Run ionic cordova platform add ios
 * Run ionic cordova run ios or ionic cordova run android
 
-[![simulator-ios-ionic.gif](https://s1.gifyu.com/images/simulator-ios-ionic.gif)](https://gifyu.com/image/s69m)
+[![simulator-ios-ionic.gif](https://s5.gifyu.com/images/simulator-ios-ionic.gif)](https://gifyu.com/image/I0lA)
 
 
 
